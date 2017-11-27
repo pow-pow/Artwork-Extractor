@@ -1,5 +1,5 @@
 # Artwork-Extractor
-A short script that extracts images from the [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers/data)
+A short script that extracts artwork from the [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers/data)
 dataset hosted by Kaggle. The script examines the *train_info.csv* file and copies/moves specific images over into
 a new directory based upon factors such as style, genre, and date.
 
