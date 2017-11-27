@@ -14,4 +14,5 @@ All possible arguments are listed below:
 - `--remove_original` whether to remove the copy of the image stored in `in_dir`, false by default
 
 ## Example
-To extract all surrealist landscapes, run: `python pextract.py --style=surrealism --genre=landscape`
+To extract all surrealist landscapes between 1990 and 1980 (inclusive), run:
+`python art_extract.py --style=surrealism --genre=landscape --date=1900,1980`
