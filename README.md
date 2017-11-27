@@ -5,7 +5,7 @@ a new directory based upon factors such as style, genre, and date.
 
 ## Setup
 Ensure all artwork is in a single directory, as the script currently does not traverse subdirectories. The default
-directory is `input` as is expected to be in the current working directory. This can be changed using the
+directory is `input` as is expected to be in the same directory as `art_extract.py`. This can be changed using the
 `--in_dir` argument.
 
 All possible arguments are listed below:
